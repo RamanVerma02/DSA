@@ -56,8 +56,8 @@ public class CountFrequency {
 
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 1, 4, 2, 3, 5, 2, 3 };
-        // operation(arr);
-        // hash("Raman Verma");
+        operation(arr);
+        hash("Raman Verma");
         meth2("Hariom Verma");
 
     }
